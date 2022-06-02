@@ -6,10 +6,15 @@ Currently, we only push the key module of our model in this repository,our paper
 
 due to commercial agreement，we will not provide the whole scripts at the present before our paper have been considered for acceptance. 
 
-But, we have provide the key module part in path "/models/model_builder.py",which can give the readers inspirations and provide ideas.
+But, we have provide the key module part in path "/models/model_builder.py" including our model framwork, which can give the readers inspirations and provide ideas.
 
 
+## What we didnot provide
+we did not provide the training strategy in this repository and data processing script, considering the commercial agreement and we will provide this part in future.
 
+If reader have any questions, please email us (hengherui@stu.shmtu.edu.cn / lipeiji@yundaex.com / shaopengshang@126.com ) at any time. We are welcome to have further 
+
+discussion.
 
 
 
