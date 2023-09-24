@@ -42,3 +42,7 @@ pip install -r requirements.txt
 ### Train
 
 bash scripts/stn_att_rec.sh
+
+### Test
+
+bash scripts/main_test_image.sh
