@@ -10,7 +10,10 @@
 ## training enviroment
 
 Tesla V100 32G memory, 8 cards.
-install required package "pip install -r requirments" 
+install required package "pip install -r requirments"
+You shoul prepare GPU equipment and the CUDA envoirment and the tensorrt for speed acceleration.
+Then loding the training dataset including 11 million text image data set.
+Running the code in docker environment or visual envoirment for steady training
 
 ## Data preparation
 
