@@ -21,7 +21,8 @@ You shoul prepare GPU equipment and the CUDA envoirment and the tensorrt for spe
 Then loding the training dataset including 11 million text image data set.
 ```
 ```setup
-Running the code in docker environment or visual envoirment for steady training
+Running the code in docker environment or visual envoirment for steady training,
+Keep the versions of PyTorch, OpenCV, and other packages consistent.
 ```
 
 ## Data preparation
