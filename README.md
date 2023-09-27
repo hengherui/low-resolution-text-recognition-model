@@ -7,7 +7,7 @@
 
 * We conduct large number of experiments on real logistics express sheet images, which are not represented on our paper, here, we show these recognition results, and we mosaicked the sensitive information such as name and telephone num for preventing disclosure of private customer information during the presentation. We show different logistics scenes, including the blurred, tilted, dark background, low-resolution images, all these scenes can prove that our method have robustness on multi scenes of logistics express image text recognition. The details have shown as followed.
 
-### minimal dataset
+### Minimal dataset
 
 In this repository, we provide the minimal dataset of public dataset used in our manuscript which were used for comparing with other methods, which named ‘benchmark_cleansed’. We also provided the minimal raw logistics images used in manuscript named ‘raw logistics images’, and the recognition result of logistics images which can prove the effect of our method named ‘Results’, ‘recognition of logistics’ and ‘recognition blur of logistics’. We also provided the minimal dataset of CTSD introduced in manuscript, named ‘val_lr’. We also provided the recognition result of the minimal public dataset including the predicted characters, and the confidence, named ‘recognition result data of the public datasets’. The training data and loss data are also provided, as well as other minimal dataset can be found in this repository, the readers who want to know more can contact me by the corresponding email. 
 
