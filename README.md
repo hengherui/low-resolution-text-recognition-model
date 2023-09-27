@@ -8,12 +8,21 @@
 * We conduct large number of experiments on real logistics express sheet images, which are not represented on our paper, here, we show these recognition results, and we mosaicked the sensitive information such as name and telephone num for preventing disclosure of private customer information during the presentation. We show different logistics scenes, including the blurred, tilted, dark background, low-resolution images, all these scenes can prove that our method have robustness on multi scenes of logistics express image text recognition. The details have shown as followed.
 
 ## training enviroment
-
+```setup
 Tesla V100 32G memory, 8 cards.
+```
+```setup
 install required package "pip install -r requirments"
+```
+```setup
 You shoul prepare GPU equipment and the CUDA envoirment and the tensorrt for speed acceleration.
+```
+```setup
 Then loding the training dataset including 11 million text image data set.
+```
+```setup
 Running the code in docker environment or visual envoirment for steady training
+```
 
 ## Data preparation
 
